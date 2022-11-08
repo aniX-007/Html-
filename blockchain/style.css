@@ -1,0 +1,16 @@
+#container
+{
+    display: flex;
+    position: fixed;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    font-weight: 500;
+    width: 100%;
+    color: white;
+    font-size: 1rem;
+    z-index: 10;
+    background-image: linear-gradient(to right, rgb(9, 86, 191), rgb(4, 64, 143), rgb(2, 54, 120), rgb(4, 64, 143), rgb(9, 86, 191));
+    padding: 0.75rem 1rem;
+}
